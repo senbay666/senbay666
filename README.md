@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @senbay666
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++ python
+- 🌱 I’m currently learning c++, a little bit html js css
 - 📫 How to reach me in discord: vampire_survivor
 
 
